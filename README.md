@@ -1,4 +1,4 @@
-<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22)Keep learning, keep coding, keep fun.;!&center=true&size=27"> </a> </h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=350&size=18&letterSpacing=1&pause=1000&color=A8D8EA&vCenter=true&width=435&lines=Keep+learning%2C+keep+coding%2C+keep+fun.)](https://git.io/typing-svg)
 
 <!--
 **liuxiatinghua/liuxiatinghua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
