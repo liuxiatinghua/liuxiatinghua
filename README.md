@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=350&size=18&letterSpacing=1&pause=1000&color=A8D8EA&vCenter=true&width=435&lines=Keep+learning%2C+keep+coding%2C+keep+fun.)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=350&size=18&letterSpacing=1&pause=1000&color=A8D8EA&center=true&vCenter=true&width=435&lines=Keep+learning%2C+keep+coding%2C+keep+fun." alt="Typing SVG" /></a>
 
 <!--
 **liuxiatinghua/liuxiatinghua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
